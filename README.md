@@ -7,8 +7,8 @@ LovyanGFX\src\lgfx\v1\panel へ Panel_NV3030B.hpp を追加
 LovyanGFX\src\lgfx\v1_init.hpp へ以下を追記してください。  
 #include "v1/panel/Panel_NV3030B.hpp"  
 
-インスタンスは以下になります。
-lgfx::Panel_NV3030B      _panel_instance;
+インスタンスは以下になります。  
+lgfx::Panel_NV3030B      _panel_instance;  
   
 ## 動作を確認済みLCDモジュール
 LovyanGFX 1.2.0にて動作確認  
