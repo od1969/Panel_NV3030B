@@ -1,7 +1,7 @@
 # Panel_NV3030B
 LovyanGFX https://github.com/lovyan03/LovyanGFX/ へ LCD Driver NV3030Bを追加するための情報です。  
 
-## LovyanGFXhへの追加方法
+## LovyanGFXへの追加方法
 LovyanGFX\src\lgfx\v1\panel へ Panel_NV3030B.hpp を追加  
 LovyanGFX\src\lgfx\v1_init.hpp へ以下を追記してください。  
 #include "v1/panel/Panel_NV3030B.hpp"  
