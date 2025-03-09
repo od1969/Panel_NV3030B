@@ -8,6 +8,8 @@ LovyanGFX\src\lgfx\v1_init.hpp へ以下を追記してください。
   
   
 ## 動作を確認済みLCDモジュール
+LovyanGFX 1.2.0にて動作確認  
+  
 1.83inch LCD Display Module, 240×280 Resolution, SPI Interface, IPS LCD, 65K Colors, Rounded Corners, Micro LCD Display  
 SKU:26784  
 Part No.:1.83inch LCD Module  
