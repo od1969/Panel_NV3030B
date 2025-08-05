@@ -11,7 +11,8 @@ LovyanGFX\src\lgfx\v1_init.hpp へ以下を追記してください。
 lgfx::Panel_NV3030B      _panel_instance;  
   
 ## 動作を確認済みLCDモジュール
-LovyanGFX 1.2.0にて動作確認  
+LovyanGFX 1.2.7にて動作確認  
+  
 1.5inch LCD Display Module, IPS Panel, Rounded Corners, 240×280 Resolution, SPI Interface, 262K colors  
 SKU:26118  
 Part No.:1.5inch LCD Module  
