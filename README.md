@@ -12,6 +12,11 @@ lgfx::Panel_NV3030B      _panel_instance;
   
 ## 動作を確認済みLCDモジュール
 LovyanGFX 1.2.0にて動作確認  
+1.5inch LCD Display Module, IPS Panel, Rounded Corners, 240×280 Resolution, SPI Interface, 262K colors  
+SKU:26118  
+Part No.:1.5inch LCD Module  
+Brand:Waveshare  
+https://www.waveshare.com/1.5inch-LCD-Module.htm  
   
 1.83inch LCD Display Module, 240×280 Resolution, SPI Interface, IPS LCD, 65K Colors, Rounded Corners, Micro LCD Display  
 SKU:26784  
